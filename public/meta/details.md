@@ -1,0 +1,1 @@
+A simple Aragon App forwarder that requires a user to deposit fees before executing an action. Useful for when an organization wants to make actions public, but impose a customizable cost to prevent spam.
